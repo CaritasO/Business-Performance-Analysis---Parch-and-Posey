@@ -1,0 +1,1 @@
+This repository analyzes Parch and Posey's sales data to uncover insights into customer behavior, sales trends, and regional performance. Using SQL for data exploration and Power BI for visualization, it supports data-driven decision-making to optimize business operations.
